@@ -1,5 +1,5 @@
-<h1 align="center">Welcome! I'm Michael</h1>
-<h3 align="center">UnityEngine game developer</h3>
+<h1 align="center">Welcome!👋 I'm Michael👨‍💻</h1>
+<h3 align="center">UnityEngine game developer 🎮🕹️👾</h3>
 
 - 🔭 I’m currently working on [a little RPG game called SpellGame](https://github.com/TGRDD/SpellGame)
 
