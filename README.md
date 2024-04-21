@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [a little RPG game called SpellGame](https://github.com/TGRDD/SpellGame)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=TGRDD-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <h3 align="left">Connect with me:</h3>
