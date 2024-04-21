@@ -11,7 +11,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me [Telegram](https://t.me/tgqqqwe):</h3>
 <p align="left">
 </p>
 
