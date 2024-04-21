@@ -10,7 +10,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=madushadhanushka&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tgrdd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 <h3 align="left">Languages and Tools:</h3>
