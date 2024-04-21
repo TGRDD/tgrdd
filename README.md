@@ -8,7 +8,8 @@
 
 - 🔭 I’m currently working on a little RPG game called [SpellGame](https://github.com/TGRDD/SpellGame)
 
-<h3 align="center">Trophies🏆.</h3>
+<h3 align="center">Trophies🏆</h3>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tgrdd&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
