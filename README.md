@@ -1,5 +1,5 @@
 <h1 align="center">Welcome!👋 I'm Michael👨‍💻</h1>
-<h2 align="center">UnityEngine game developer 🎮🕹️👾</h2>
+<h3 align="center">UnityEngine game developer 🎮🕹️👾</h3>
 - 📋 About me:
 
   I am an indie developer of Unity games for mobile and desktop platforms. 
