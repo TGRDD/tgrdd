@@ -1,5 +1,9 @@
 <h1 align="center">Welcome!👋 I'm Michael👨‍💻</h1>
 <h3 align="center">UnityEngine game developer 🎮🕹️👾</h3>
+- 📋 About me:
+  I am an indie developer of Unity games for mobile and desktop platforms. 
+  Currently, I am studying various technologies and tools 
+  to create optimized, interesting and profitable games.
 
 - 🔭 I’m currently working on [a little RPG game called SpellGame](https://github.com/TGRDD/SpellGame)
 
