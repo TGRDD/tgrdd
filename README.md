@@ -6,7 +6,7 @@
   Currently, I am studying various technologies and tools 
   to create optimized, interesting and profitable games.
 
-- 🔭 I’m currently working on [a little RPG game called SpellGame](https://github.com/TGRDD/SpellGame)
+- 🔭 I’m currently working on a little RPG game called [SpellGame](https://github.com/TGRDD/SpellGame)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
