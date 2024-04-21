@@ -1,8 +1,8 @@
 <h1 align="center">Welcome! I'm Michael</h1>
 <h3 align="center">UnityEngine game developer</h3>
 
-<p [![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
- /></a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=tgrdd-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - 🔭 I’m currently working on [a little RPG game called SpellGame](https://github.com/TGRDD/SpellGame)
 
