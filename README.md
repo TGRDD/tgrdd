@@ -6,7 +6,7 @@
   Currently, I am studying various technologies and tools 
   to create optimized, interesting and profitable games.
 
-- 🔭 I’m currently working on a little RPG game called [SpellGame](https://github.com/TGRDD/SpellGame)
+- 🔭 I’m currently working on a layout projects
 
 <h2 align="center">Trophies🏆</h2>
 
